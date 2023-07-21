@@ -18,12 +18,15 @@ Agora abra o VS ou o seu terminal preferido crie files respectivas aos volumes d
 
 [![VS](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7TJIN6ePR2bUl1IyWgEbloMOQB5gW4M8w8Q&usqp=CAU)](https://code.visualstudio.com/)
 
+#### Instalando
 ```
 docker-compose up airflow-init
 ```
+#### Subindo
 ```
 docker-compose up
 ```
+#### Derrubando
 ```
 docker-compose down
 ```
